@@ -1,0 +1,141 @@
+
+TESTS FOR Computer.java:
+Dell, Powerful, 4GB Memory, 512GB Solid State Drive, Price: $800.00
+Toshiba, Decent, 8GB Memory, 256GB Hard Drive, Price: $650.00
+Mac, Weak, 6GB Memory, 2.0TB Solid State Drive, Price: $1400.00
+HP, Expensive, 16GB Memory, 4.1TB Hard Drive, Price: $2500.00
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-04-10, Binghamton, New York, USA
+Date and place of birth: 2000-04-10, Los Angeles, California, USA
+Date and place of birth: 1988-09-21, Atlanta, Georgia, USA
+Date and place of birth: 1979-04-10, Barcelona, Italy
+Date and place of birth: 1996-08-24, Athens, Greece
+false
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+
+
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+
+
+true
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+
+
+true
+true
+true
+true
+true
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+
+
+TESTS FOR StreetUSAddress.java:
+123 Cherry Lane
+Apartment 2A
+Newark, NJ 01234
+
+
+321 Maple Avenue
+Trenton, NJ 43210
+
+TESTS FOR Person.java:
+Joe Smith (123-00-1234)
+Date and place of birth: 1985-05-16, Buffalo, New York, USA
+999 Main Street
+Apartment 174
+Binghamton, New York 12345
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Jane Doe (321-99-1234)
+Date and place of birth: 1999-11-23, Omaha, Nebraska, USA
+123 State Street
+Pheonix, Arizona 00123
+Computers: [Dell, Powerful, 4GB Memory, 512GB Solid State Drive, Price: $800.00 , Toshiba, Decent, 8GB Memory, 256GB Hard Drive, Price: $650.00 , Mac, Weak, 6GB Memory, 2.0TB Solid State Drive, Price: $1400.00 , HP, Expensive, 16GB Memory, 4.1TB Hard Drive, Price: $2500.00 ]
+
+
+Computer List, Owner: Jane Doe (321-99-1234)
+Date and place of birth: 1999-11-23, Omaha, Nebraska, USA
+123 State Street
+Pheonix, Arizona 00123
+Computers: [Mac, Weak, 6GB Memory, 2.0TB Solid State Drive, Price: $1400.00 , HP, Expensive, 16GB Memory, 4.1TB Hard Drive, Price: $2500.00 ]
+
+
+TESTS FOR SimpleDateTester.java:
+1999/10/22
+true
+true
+true
+false
+false
+false
+false
